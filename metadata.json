@@ -1,0 +1,7 @@
+{
+  "name": "CementFlow SRS Pro",
+  "description": "A sophisticated Software Requirements Specification (SRS) engine tailored for small-to-medium cement businesses, featuring AI-assisted requirement refinement and interactive design mockups.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
